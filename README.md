@@ -4,3 +4,4 @@ Frontend performance log
 API versioning strategy
 Regression test summary
 Cloud deployment config
+User authentication flow
